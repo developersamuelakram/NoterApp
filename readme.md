@@ -12,7 +12,7 @@ This app has.
 
 
 ### Splash Screen
-![](images/splashscreen.png){width=50}
+![width=50](images/splashscreen.png)
 
 ### HOME 
 ![](images/homefragment.png)
