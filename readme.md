@@ -12,18 +12,18 @@ This app has.
 
 
 ### Splash Screen
-![](images/1.png)
+![](images/splashscreen.png){:height="100px" width="100px}.
 
 ### HOME 
-![](images/2.png)
+![](images/homefragment.png){:height="100px" width="100px}.
 
 ### Create Note 
-![](images/3.png)
+![](images/createnote.png){:height="100px" width="100px}.
 
 ### Edit Note
-![](images/4.png)
+![](images/editfragment.png){:height="100px" width="100px}.
 
 
 ### Search View
-![](images/5.png)
+![](images/searchview.png){:height="100px" width="100px}.
 
