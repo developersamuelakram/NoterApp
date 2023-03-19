@@ -1,4 +1,4 @@
-## NOTES TAKING APP built with | Kotlin Coroutines | Room, MVVM, Navigation, Databinding | 
+## NOTES TAKING| Kotlin Coroutines | Room, MVVM, Navigation, Databinding | 
 
 This app has.
 
@@ -12,18 +12,18 @@ This app has.
 
 
 ### Splash Screen
-![](images/splashscreen.png)
+![](images/1.png)
 
 ### HOME 
-![](images/homefragment.png)
+![](images/2.png)
 
 ### Create Note 
-![](images/createnote.png)
+![](images/3.png)
 
 ### Edit Note
-![](images/editfragment.png)
+![](images/4.png)
 
 
 ### Search View
-![](images/searchview.png)
+![](images/5.png)
 
